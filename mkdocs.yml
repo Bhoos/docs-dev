@@ -1,0 +1,8 @@
+site_name: My Docs
+theme: united
+nav:
+    - Home: index.md
+    - React-Native:
+        - "Home": "react-native/index.md"
+        - "Cocoapods": "react-native/use-pods.md"
+        - "Dev Server": "react-native/configurable-dev-server.md"
